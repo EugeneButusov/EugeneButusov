@@ -7,5 +7,5 @@ I'm Eugene (natively `Evgeny`) Butusov, a software engineer with experience and 
 [![Gmail Badge](https://img.shields.io/badge/-EugeneButusov-1a1a1a?style=flat&logo=Leetcode&logoColor=white&link=https://leetcode.com/EugeneButusov/)](https://leetcode.com/EugeneButusov/)
 
 - 🛠 I’m currently working on my simple full-stack boilerplate TypeScript-based (nestjs as a backend) starter [Kickstart](https://github.com/EugeneButusov/kickstart) (not having too much time for in though hehe)
-- 📚 I’m currently learning Rust, Solana, Solidity and Srpski
+- 📚 I’m currently learning Rust, Solana and Srpski
 - 👯 I’m looking for abilities to contribute to something cool, preferrably open-source and blockchain-related :)
