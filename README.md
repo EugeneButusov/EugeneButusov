@@ -5,6 +5,5 @@ I'm Eugene (natively `Evgeny`) Butusov, a software engineer with experience and 
 [![Linkedin Badge](https://img.shields.io/badge/-eugenebutusov-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/eugenebutusov/)](https://www.linkedin.com/in/eugenebutusov/)
 [![Gmail Badge](https://img.shields.io/badge/-evgenybutusov@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:evgenybutusov@gmail.com)](mailto:evgenybutusov@gmail.com)
 
-- 🛠 TBA...
-- 📚 I’m currently learning Rust, Solana and Srpski
+- 🛠 Currently building [Kvorum](https://github.com/EugeneButusov/kvorum) - Analytics platform for DAO governance (in progress);
 - 👯 I’m looking for abilities to contribute to something cool, preferrably open-source and blockchain-related :)
