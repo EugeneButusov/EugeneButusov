@@ -20,8 +20,7 @@ const engineer = {
         "PostgreSQL",
         "DynamoDB",
         "MongoDB"
-    ],
-    currentlyBuilding: "Kvorum"
+    ]
 };
 ```
 
@@ -39,14 +38,6 @@ Things I particularly enjoy working on:
 - protocol integrations
 - API design
 - performance optimization
-
----
-
-## Current project
-
-### Kvorum
-
-An open-source analytics platform for on-chain governance.
 
 ---
 
