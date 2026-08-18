@@ -13,9 +13,7 @@ const engineer = {
     ],
     languages: [
         "TypeScript",
-        "Go",
-        "Rust",
-        "Python"
+        "Rust"
     ],
     databases: [
         "ClickHouse",
