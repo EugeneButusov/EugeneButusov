@@ -53,7 +53,7 @@ ClickHouse • PostgreSQL • DynamoDB
 
 **Infrastructure**
 
-AWS • Docker
+AWS • Docker • Kubernetes
 
 **Blockchain**
 
