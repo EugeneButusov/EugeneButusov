@@ -18,7 +18,8 @@ const engineer = {
     databases: [
         "ClickHouse",
         "PostgreSQL",
-        "DynamoDB"
+        "DynamoDB",
+        "MongoDB"
     ],
     currentlyBuilding: "Kvorum"
 };
