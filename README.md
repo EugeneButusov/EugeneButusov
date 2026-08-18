@@ -55,7 +55,7 @@ An open-source analytics platform for on-chain governance.
 
 **Backend**
 
-Node.js • TypeScript • Go • Rust
+Node.js • TypeScript • Rust
 
 **Data**
 
@@ -68,7 +68,3 @@ AWS • Docker
 **Blockchain**
 
 Ethereum • Solana • DeFi
-
----
-
-> "Make it work. Make it simple. Then make it fast."
